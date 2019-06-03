@@ -11,10 +11,10 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
 <title>Server Status</title>
-<link rel="stylesheet" media="all" href="default/style.css" />
-<link rel="canonical" href="http://x-128-101-121-222.reshalls.umn.edu/" />
+<link rel="stylesheet" media="all" href="https://www.trance-cat.com/default/style.css" />
+<link rel="canonical" href="https://other-game-servers.herokuapp.com/" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<script src="default/ga.js" async></script>
+<script src="https://www.trance-cat.com/default/ga.js" async></script>
 </head>
 <body>
 <?php
